@@ -1,0 +1,6 @@
+
+
+sys.dm_exec_requests
+sys.dm_exec_query_stats
+sys.dm_db_index_usage_stats
+sys.dm_os_wait_stats
